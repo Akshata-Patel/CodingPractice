@@ -17,8 +17,10 @@ namespace CodingPractice
             //numberTask2.Execute();
             //AddandMultiplyTask1 task1 = new AddandMultiplyTask1();
             //task1.Execute();
-            ElementaryOperationTask1 elementaryOperationTask1 = new ElementaryOperationTask1();
-            elementaryOperationTask1.Execute();
+            //ElementaryOperationTask1 elementaryOperationTask1 = new ElementaryOperationTask1();
+            //elementaryOperationTask1.Execute();
+            CubicNumberTask1 cubicNumberTask1 = new CubicNumberTask1();
+            cubicNumberTask1.Execute();
         }
     }
 }
