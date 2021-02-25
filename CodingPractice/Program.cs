@@ -19,8 +19,10 @@ namespace CodingPractice
             //task1.Execute();
             //ElementaryOperationTask1 elementaryOperationTask1 = new ElementaryOperationTask1();
             //elementaryOperationTask1.Execute();
-            CubicNumberTask1 cubicNumberTask1 = new CubicNumberTask1();
-            cubicNumberTask1.Execute();
+            //CubicNumberTask1 cubicNumberTask1 = new CubicNumberTask1();
+            //cubicNumberTask1.Execute();
+            SwapValueTask1 swapValueTask1 = new SwapValueTask1();
+            swapValueTask1.Execute();
         }
-    }
+    } 
 }
