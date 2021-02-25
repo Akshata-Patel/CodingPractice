@@ -1,4 +1,5 @@
-﻿using CodingPractice.ForLoop;
+﻿using CodingPractice.ArithmeticOperators;
+using CodingPractice.ForLoop;
 
 namespace CodingPractice
 {
@@ -12,8 +13,10 @@ namespace CodingPractice
             //starTask2.Execute();
             //NumberTask1 numberTask1 = new NumberTask1();
             //numberTask1.Execute();
-            NumberTask2 numberTask2 = new NumberTask2();
-            numberTask2.Execute();
+            //NumberTask2 numberTask2 = new NumberTask2();
+            //numberTask2.Execute();
+            AddandMultiplyTask1 task1 = new AddandMultiplyTask1();
+            task1.Execute();
         }
     }
 }
