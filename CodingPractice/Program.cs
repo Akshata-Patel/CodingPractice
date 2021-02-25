@@ -15,8 +15,10 @@ namespace CodingPractice
             //numberTask1.Execute();
             //NumberTask2 numberTask2 = new NumberTask2();
             //numberTask2.Execute();
-            AddandMultiplyTask1 task1 = new AddandMultiplyTask1();
-            task1.Execute();
+            //AddandMultiplyTask1 task1 = new AddandMultiplyTask1();
+            //task1.Execute();
+            ElementaryOperationTask1 elementaryOperationTask1 = new ElementaryOperationTask1();
+            elementaryOperationTask1.Execute();
         }
     }
 }
