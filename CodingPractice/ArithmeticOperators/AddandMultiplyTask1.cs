@@ -7,6 +7,5 @@
             double sum = a + b;
             return sum * c;
         }
-
     }
 }

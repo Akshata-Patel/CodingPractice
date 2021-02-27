@@ -4,7 +4,7 @@ namespace CodingPractice.ForLoop
 {
     public class NumberTask2
     {
-        public void Execute()
+        public static void Execute()
         {
             int row, col, col1, num, str = 1; ;
             Console.WriteLine("Please enter your number :");

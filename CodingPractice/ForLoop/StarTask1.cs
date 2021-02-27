@@ -4,7 +4,7 @@ namespace CodingPractice.ForLoop
 {
     public class StarTask1
     {
-        public void Execute()
+        public static void Execute()
         {
             int num;
             Console.WriteLine("Please enter your number :");
