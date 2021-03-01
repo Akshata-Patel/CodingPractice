@@ -32,6 +32,13 @@ namespace CodingPractice
             //Console.WriteLine(IfGreaterThan.IfGreaterThanThirdOne(-5, -8, 40));
             //Console.WriteLine(NumberIsEven.NumbersIsEvenTask1(1248));
             //Console.WriteLine(SortedAscending.IfSortedAscending(3, 3, 3));
+
+            //Console.WriteLine(PositiveNegativeOrZero.PositiveNegativeOrZeroTask(-994.53));
+            //MultiplicationTable.MultiplicationTable10(10);
+            //SortingNumbers.SortArrayAscending(9, 5, 7, 2, 1, 8);
+            //BiggestNumber.TheBiggestNumber(-9, -2, -7, -8, -4);
+            //BiggestNumber.TheBiggestNumber(1, 5, 3, 300, 596);
+            Console.WriteLine(AlphabetSeries.IsLonelyIsland("xaz"));
         }
     } 
 }
